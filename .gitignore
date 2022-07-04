@@ -1,0 +1,55 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+__pycache__
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+*.nc
+*.log
+*.pyc
+package-lock.json
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+.DS_Store
+node_modules
+/dist
+script/noaa/tmp
+script/logs
+script/tmp
+script/noaa/__pycache__
+script/windServer/__pycache__
+script/windManage/__pycache__
+script/windServer/controller/__pycache__
+script/windServer/constant/__pycache__
+script/windServer/util/__pycache__
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+

@@ -1,0 +1,7 @@
+---
+interface:
+  user: "administrator"
+
+sqlit:
+  path: "datas/"
+  db: "em.db"
