@@ -9,7 +9,9 @@
 1. 下载[git客户端](https://git-scm.com/downloads)
 2. 打开cmd或者git bash, `git clone https://github.com/SaberGuo/electric-manager.git`
 3. pip install -r requirements.txt
-4. 任务1:python tools/statistic.py
+4. 任务1:python tools/statistic.py 或者  python interface/task1.py "./datas/cph.xlsx" "cph"
+5. 任务2:
+
 
 #### 软件架构
 软件架构说明
