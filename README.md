@@ -1,7 +1,15 @@
 # electricManager
 
 #### 介绍
-中国软件杯
+中国软件杯, 使用python3.8运行
+
+
+#### 使用方法
+
+1. 下载[git客户端](https://git-scm.com/downloads)
+2. 打开cmd或者git bash, `git clone https://github.com/SaberGuo/electric-manager.git`
+3. pip install -r requirements.txt
+4. 任务1:python tools/statistic.py
 
 #### 软件架构
 软件架构说明
