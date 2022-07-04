@@ -5,14 +5,19 @@
 
 #### 软件架构
 软件架构说明
->>doc:文档
->>config:配置文件
->>interface:交互界面
->>release:生成应用
->>tools:使用的相关辅助工具脚本
->>>statistic.py:统计总体情况
->>algorithms:使用的算法  
->>>cluster.py:
+>doc:文档
+
+>config:配置文件
+
+>interface:交互界面
+
+>release:生成应用
+
+>tools:使用的相关辅助工具脚本
+>>statistic.py:统计总体情况
+
+>algorithms:使用的算法  
+>>cluster.py:
 
 
 #### 任务

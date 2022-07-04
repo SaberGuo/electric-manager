@@ -1,0 +1,4 @@
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_83242e7e-f82d-4a71-8ef2-9d71d212d249gu_wxmeq/croots/recipe/certifi_1655968827803/work/certifi
+-e git+https://github.com/WilsonWangTHU/mbbl.git@bb88a016de2fcd8ea0ed9c4d5c539817d2b476e7#egg=mbbl
+pyglet==1.5.0
+xlrd==2.0.1
