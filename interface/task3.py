@@ -19,7 +19,7 @@ mpl.rcParams['font.sans-serif'] = ['SimHei']  # 指定默认字体
 mpl.rcParams['axes.unicode_minus'] = False  # 解决保存图像是负号'-'显示为方块的问题
 
 
-
+https://github.com/Zt375356/electric-manager
 
 # 快速傅里叶变换
 def get_fft_power_spectrum(y_values, N, f_s, f=2):
